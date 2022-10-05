@@ -1,4 +1,4 @@
-// import './ExpenseFilter.css'
+import './ExpensesFilter.css'
 
 const ExpensesFilter = (props) => {
     const dropdownChangeHandler = (event) => {
